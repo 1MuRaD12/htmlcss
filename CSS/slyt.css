@@ -1,0 +1,27 @@
+table,th,td{
+    background-color: white;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body{
+    
+    margin-left: 40%;
+}
+
+th{
+    color: white;
+    background-color: gray;
+}
+.title{
+    background-color: rgb(38, 51, 65);
+}
+.title1{
+    background-color: green;
+}
+:root{
+    background-color: rgb(84, 84, 238);
+}
+caption{
+    color: white;
+}
